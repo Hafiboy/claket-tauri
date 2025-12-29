@@ -3,7 +3,8 @@ name: "Release"
 on:
   push:
     tags:
-      - 'v*'
+      - "v*"
+  workflow_dispatch: # <--- C'est cette ligne qui permet le déclenchement manuel
 
 jobs:
   publish-tauri:
@@ -50,7 +51,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tagName: v__VERSION__
+          tagName: v__VERSION__ # Utilise la version du tauri.conf.json si pas de tag
           releaseName: "Claket Soundboard v__VERSION__"
           releaseBody: "See RELEASE_NOTES_TEMP.md for details."
           releaseDraft: true
